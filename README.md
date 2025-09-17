@@ -1,6 +1,6 @@
 # Netflix Clone Web Application
 
-![Netflix Clone Screenshot](link_to_your_screenshot.jpg)
+![Netflix Clone Screenshot](https://github.com/thanaponkr/Netflix-Clone-App/blob/main/NetflixCloneApp.png)
 
 A web application inspired by the Netflix interface, created to practice and demonstrate full-stack development skills. This project fetches real-time movie data from The Movie Database (TMDB) API and displays it in a clean, responsive user interface.
 
